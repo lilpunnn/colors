@@ -16,11 +16,7 @@ body {
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	overflow:hidden;
 }
-h1 {
-	position: absolute;
-	top: 20%;
-	color: aliceblue;
-}
+
 .container {
 	width: 80%;
 	display: flex;
@@ -72,5 +68,5 @@ h1 {
 }
 footer {
 	position: absolute;
-	bottom: 5px;
+	bottom: 1px;
 }
